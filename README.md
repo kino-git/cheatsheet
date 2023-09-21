@@ -1,6 +1,7 @@
 # chrome
 | 説明文 | キー |
 | ---- | ---- |
+| タブ複製 | Alt+d+Enter |
 | タブ閉じる | Ctrl+w |
 
 # outlook
