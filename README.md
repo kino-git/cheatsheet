@@ -9,17 +9,17 @@
 | ---- | ---- |
 | ファイル添付 | Alt+nafb |
 
-# powrpoint/図形
+# powerpoint/図形
 | 説明文 | キー |
 | ---- | ---- |
 | 図形の枠線の太さ | Alt+jdsow |
 
-# powrpoint/テキスト
+# powerpoint/テキスト
 | 説明文 | キー |
 | ---- | ---- |
 | テキスト貼り付け | Ctrl+Alt+va↓ |
 
-# powrpoint/表
+# powerpoint/表
 | 説明文 | キー |
 | ---- | ---- |
 | 行削除 | Alt+jldr |
