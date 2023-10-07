@@ -7,7 +7,10 @@
 # outlook/メール
 | 説明文 | キー |
 | ---- | ---- |
+| 行を選択 | Ctrl+Shift+↑、↓ |
+| 検索 | Ctrl+E |
 | ファイル添付 | Alt+nafb |
+| メール⇔予定表切替 | Ctrl+1、2 |
 
 # powerpoint/図形
 | 説明文 | キー |
