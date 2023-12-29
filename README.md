@@ -9,6 +9,7 @@
 # Explorer
 | 説明文 | キー |
 | ---- | ---- |
+| 上階層 | Alt+↑ |
 | スクロール | Ctrl+Home、End |
 
 # outlook/メール
